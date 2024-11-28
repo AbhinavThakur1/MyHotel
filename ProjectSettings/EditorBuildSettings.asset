@@ -6,8 +6,8 @@ EditorBuildSettings:
   serializedVersion: 2
   m_Scenes:
   - enabled: 1
-    path: Assets/Scenes/MyHotel.unity
-    guid: 9fc0d4010bbf28b4594072e72b8655ab
+    path: Assets/Scenes/trash.unity
+    guid: fde525cc6ab6f704da50ac177b345e11
   m_configObjects:
     com.unity.adaptiveperformance.google.android.provider_settings: {fileID: 11400000, guid: 9393fd931698c9e4993f3be6c24ff9ba, type: 2}
     com.unity.adaptiveperformance.loader_settings: {fileID: 11400000, guid: e941077413fd37148b2189705fc3c256, type: 2}
