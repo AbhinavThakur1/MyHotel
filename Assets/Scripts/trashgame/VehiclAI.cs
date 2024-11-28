@@ -86,7 +86,6 @@ public class VehiclAI : MonoBehaviour
             {
                 if (time >= 2)
                 {
-                    Debug.Log("works;");
                     trashAi.count += 1;
                     trashAi.CountChecker();
                     checkpoint += 1;
